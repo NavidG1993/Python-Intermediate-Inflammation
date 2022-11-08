@@ -10,6 +10,7 @@ and each column represents a single day across all patients.
 import numpy as np
 
 "You call this coding?"
+"Cos I don't"
 def load_csv(filename):
     """Load a Numpy array from a CSV
 
